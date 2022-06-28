@@ -58,4 +58,5 @@ cached.zip/flag.txt:infected:flag.txt:cached.zip:cached.zip
 1 password hash cracked, 0 left
 ```
 Kết quả bruteforce cho kết quả password cần tìm là `infected`.
+
 Flag: `FPTUHacking{1265654407417514740_wouldn_t_you_say_there_s_a_light_in_the_darkest_moment}`
